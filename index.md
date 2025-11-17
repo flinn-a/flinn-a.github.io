@@ -17,6 +17,10 @@ This site will be used to share notes and project updates.
 * [The CIA World Factbook](https://github.com/rfordatascience/tidytuesday/blob/main/data/2024/2024-10-22/readme.md): Observe the relationship between many variables of a country
 * [Relative Age of Congress](https://github.com/fivethirtyeight/data/tree/master/congress-demographics): Compaire how the avrage age of congress compairs to the avrage age of consituants over time.
 
-
+### Where's Schueller?
+<---!Load live plotly html --->
+<iframe src="whereSchueller.html" width ="100%" height = "600" style="border:none;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
  
