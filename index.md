@@ -3,6 +3,7 @@
 This is a website built entirely with GitHub Pages and Markdown!
 
 <details>
+  
 <summary><strong> Table of Contents</strong> (click to expand)</summary>
 
 -   [About This Site](#about-this-site)
