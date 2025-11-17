@@ -11,7 +11,7 @@ This site will be used to share notes and project updates.
 * Uses a default theme
 
 ### Data Sources/Ideas
-* [Allrecipes[(https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-09-16): Find top ingredients by avrage star rating and then possibly make something combinding the top 5?
+* [Allrecipes](https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-09-16): Find top ingredients by avrage star rating and then possibly make something combinding the top 5?
 * [Henley Passport Index Data](https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-09-09): Compaire strenghts of passports baised on year and compair with global events to see how that impacted raitings
 * [Pixar Films](https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-03-11): See if there actually has been a fall off of pixar films in the recent years using 5 ratings and release dates
 
