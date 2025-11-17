@@ -1,6 +1,15 @@
 # Welcome to My Example Page
 
 This is a website built entirely with GitHub Pages and Markdown!
+<details>
+<summary><strong>📋 Table of Contents</strong> (click to expand)</summary>
+
+- [About This Site](#about-this-site)
+  - [Key Features](#key-features)
+  - [Data Sources/Ideas](#data-sourcesideas)
+  - [Where's Schueller?](#wheres-schueller)
+
+</details>
 
 ## About This Site
 This site will be used to share notes and project updates.
