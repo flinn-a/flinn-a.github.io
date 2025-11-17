@@ -6,10 +6,12 @@ This is a website built entirely with GitHub Pages and Markdown!
   
 <summary><strong> Table of Contents</strong> (click to expand)</summary>
 
+<br>
+
 -[About This Site](#about-this-site)
-- [Key Features](#key-features)
-- [Data Sources/Ideas](#data-sourcesideas)
-- [Where's Schueller?](#wheres-schueller)
+  -[Key Features](#key-features)
+  -[Data Sources/Ideas](#data-sourcesideas)
+  -[Where's Schueller?](#wheres-schueller)
 
 </details>
 
