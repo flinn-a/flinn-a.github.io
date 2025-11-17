@@ -6,19 +6,8 @@ This is a website built entirely with GitHub Pages and Markdown!
   - [Key Features](#key-features)
   - [Data Sources/Ideas](#data-sourcesideas)
   - [Where's Schueller?](#wheres-schueller)
-    
-<details>
-  
-<summary><strong> Table of Contents</strong> (click to expand)</summary>
+    <!-- This is my above and beyond component, this can be used to navigate the website and will be more usefull once more is included on it-->
 
-<br>
-
--[About This Site](#about-this-site)
-  -[Key Features](#key-features)
-  -[Data Sources/Ideas](#data-sourcesideas)
-  -[Where's Schueller?](#wheres-schueller)
-
-</details>
 
 
 ## About This Site
