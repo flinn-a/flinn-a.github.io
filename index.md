@@ -31,4 +31,10 @@ This site will be used to share notes and project updates.
   <p>Your browser does not support iframes.</p>
 </iframe>
 
+### Data Sciecne Final:
+[Link to webpage](https://flinn-a.github.io/HW6-Chicago-Crime-Dynamics.io/)
+
+This is my final me and my partner built for our data Sciecne Final for the fall symester of 2025
+
+
  
